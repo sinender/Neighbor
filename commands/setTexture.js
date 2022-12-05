@@ -10,7 +10,7 @@ let guiChest;
 let items = [];
 
 // get all the items for the select texture gui
-const url = new java.net.URL("https://raw.githubusercontent.com/sinender/Scoring/main/text.txt");
+const url = new java.net.URL("https://raw.githubusercontent.com/sinender/Neighbor/main/textures.txt");
 let input = new java.io.BufferedReader(
     new java.io.InputStreamReader(url.openStream()));
 let inputLine

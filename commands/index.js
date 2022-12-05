@@ -1,1 +1,2 @@
 import './setTexture'
+import './neighbor'
