@@ -1,5 +1,6 @@
 // credit: @Arisings / Modified from original
 import paginate from '../utils/pagination';
+import loadItemstack from "../utils/loadItemstack";
 const InventoryBasic = Java.type("net.minecraft.inventory.InventoryBasic");
 const GuiChest = Java.type("net.minecraft.client.gui.inventory.GuiChest");
 NBTTagCompound = Java.type("net.minecraft.nbt.NBTTagCompound");
@@ -124,6 +125,7 @@ register("guiMouseClick", (x, y, button, gui, event) => {
                     } else {
                         item.setName("&" + texture[0] + "&" + texture[1] + "&" + texture[2] + "&r" + item.getName())
                     }
+                    loadItemstack(item.itemStack, Player.getHeldItemIndex() + 36)
                     ChatLib.chat("&aItem texture set to: " + paginate(newItems, page, 28)[actual].getName())
 
                 }
