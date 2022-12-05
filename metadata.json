@@ -1,0 +1,8 @@
+{
+  "name": "NeighborMan",
+  "creator": "Sin_ender",
+  "description": "module for the Neighbourhood Pack brought to you by BlockWorks Studios",
+  "entry": "index.js",
+  "version": "1.0.0-alpha.1",
+  "requires": []
+}
