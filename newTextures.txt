@@ -1,0 +1,116 @@
+Miscellaneous:Archeology Brush:090
+Miscellaneous:Arrow Left:091
+Miscellaneous:Arrow Return:092
+Miscellaneous:Arrow Right:093
+Miscellaneous:Checkpoint:094
+Miscellaneous:Coin:095
+Miscellaneous:Crate:096
+Miscellaneous:Gift:097
+Miscellaneous:Inventory Fill:115
+Miscellaneous:Key:098
+Miscellaneous:Paint Brush:099
+Miscellaneous:Palette:100
+Materials:Ruby Large:101
+Materials:Ruby Medium:102
+Materials:Ruby Small:103
+Tools:Rugged Axe:104
+Tools:Rugged Hoe:105
+Tools:Rugged Pickaxe:106
+Tools:Rugged Shovel:107
+Weapons:Rugged Sword:108
+Materials:Sapphire Large:109
+Materials:Sapphire Medium:110
+Materials:Sapphire Small:111
+Materials:Topaz Large:112
+Materials:Topaz Medium:113
+Materials:Topaz Small:114
+Materials:Arcane Essence:000
+Materials:Clay Blend:001
+Tools:Cobalt Axe:002
+Tools:Cobalt Hoe:003
+Materials:Cobalt Ingot:004
+Materials:Cobalt Ore:005
+Tools:Cobalt Pickaxe:006
+Materials:Cobalt Plating:007
+Tools:Cobalt Shovel:008
+Weapons:Cobalt Sword:009
+Armor:Earthen Boots:010
+Armor:Earthen Chestplate:011
+Materials:Earthen Core:012
+Weapons:Earthen Greatsword:013
+Tools:Earthen Hammer:014
+Armor:Earthen Helmet:015
+Armor:Earthen Leggings:016
+Materials:Earthen Module:017
+Weapons:Earthen Scimitar:018
+Materials:Fire Essence:019
+Materials:Fire Manastone:020
+Armor:Forest Boots:021
+Armor:Forest Chestplate:022
+Materials:Forest Essence:023
+Armor:Forest Helmet:024
+Armor:Forest Leggings:025
+Materials:Greater Manastone:026
+Materials:Heavy Plating:027
+Miscellaneous:Infected Heart:028
+Weapons:Infernal Staff:029
+Materials:Leather Plating:030
+Materials:Lesser Manastone:031
+Materials:Manastone:032
+Weapons:Manastone Staff:033
+Miscellaneous:Mithril:034
+Armor:Mithril Boots:035
+Armor:Mithril Chestplate:036
+Materials:Mithril Fragment:037
+Armor:Mithril Helmet:038
+Armor:Mithril Leggings:039
+Materials:Mithril Plating:040
+Materials:Mithril Shard:041
+Weapons:Mithril Sword:042
+Armor:Mossy Boots:043
+Armor:Mossy Chestplate:044
+Armor:Mossy Helmet:045
+Armor:Mossy Leggings:046
+Tools:Platnium Axe:047
+Tools:Platnium Hoe:048
+Materials:Platnium Ingot:049
+Materials:Platnium Ore:050
+Tools:Platnium Pickaxe:051
+Materials:Platnium Plating:052
+Tools:Platnium Shovel:053
+Weapons:Platnium Sword:054
+Miscellaneous:Prismite:055
+Tools:Prismite Axe:056
+Tools:Prismite Hoe:057
+Tools:Prismite Pickaxe:058
+Weapons:Prismite Scythe:059
+Tools:Prismite Shovel:060
+Weapons:Prismite Staff:061
+Weapons:Prismite Sword:062
+Materials:Pure Mana:063
+Materials:Reinforced Clay:064
+Materials:Reinforced Plating:065
+Materials:Scorched Hide:066
+Tools:Silver Axe:067
+Tools:Silver Hoe:068
+Materials:Silver Ingot:069
+Materials:Silver Ore:070
+Tools:Silver Pickaxe:071
+Materials:Silver Plating:072
+Tools:Silver Shovel:073
+Weapons:Silver Sword:074
+Weapons:Skeletal Blade:075
+Weapons:Skeletal Greatsword:076
+Miscellaneous:Slime On A Stick:077
+Materials:Wind Essence:078
+Materials:Wind Manastone:079
+Weapons:Withered Blade:080
+Materials:Withered Bone:081
+Armor:Withered Boots:082
+Armor:Withered Chestplate:083
+Armor:Withered Helmet:084
+Armor:Withered Leggings:085
+Materials:Wtihered Plate:086
+Materials:Woven Arcane:087
+Materials:Woven Fire:088
+Materials:Woven Wind:089
