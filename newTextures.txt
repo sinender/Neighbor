@@ -1,29 +1,3 @@
-Miscellaneous:Archeology Brush:090
-Miscellaneous:Arrow Left:091
-Miscellaneous:Arrow Return:092
-Miscellaneous:Arrow Right:093
-Miscellaneous:Checkpoint:094
-Miscellaneous:Coin:095
-Miscellaneous:Crate:096
-Miscellaneous:Gift:097
-Miscellaneous:Inventory Fill:115
-Miscellaneous:Key:098
-Miscellaneous:Paint Brush:099
-Miscellaneous:Palette:100
-Materials:Ruby Large:101
-Materials:Ruby Medium:102
-Materials:Ruby Small:103
-Tools:Rugged Axe:104
-Tools:Rugged Hoe:105
-Tools:Rugged Pickaxe:106
-Tools:Rugged Shovel:107
-Weapons:Rugged Sword:108
-Materials:Sapphire Large:109
-Materials:Sapphire Medium:110
-Materials:Sapphire Small:111
-Materials:Topaz Large:112
-Materials:Topaz Medium:113
-Materials:Topaz Small:114
 Materials:Arcane Essence:000
 Materials:Clay Blend:001
 Tools:Cobalt Axe:002
@@ -114,3 +88,213 @@ Materials:Wtihered Plate:086
 Materials:Woven Arcane:087
 Materials:Woven Fire:088
 Materials:Woven Wind:089
+Miscellaneous:Archeology Brush:090
+Miscellaneous:Arrow Left:091
+Miscellaneous:Arrow Return:092
+Miscellaneous:Arrow Right:093
+Miscellaneous:Checkpoint:094
+Miscellaneous:Coin:095
+Miscellaneous:Crate:096
+Miscellaneous:Gift:097
+Miscellaneous:Inventory Fill:115
+Miscellaneous:Itemname:\ufd4f
+Miscellaneous:Key:098
+Miscellaneous:Paint Brush:099
+Miscellaneous:Palette:100
+Materials:Ruby Large:101
+Materials:Ruby Medium:102
+Materials:Ruby Small:103
+Tools:Rugged Axe:104
+Tools:Rugged Hoe:105
+Tools:Rugged Pickaxe:106
+Tools:Rugged Shovel:107
+Weapons:Rugged Sword:108
+Materials:Sapphire Large:109
+Materials:Sapphire Medium:110
+Materials:Sapphire Small:111
+Materials:Topaz Large:112
+Materials:Topaz Medium:113
+Materials:Topaz Small:114
+Materials:Bronze Ingot:116
+Miscellaneous:Bronze Raw:117
+Materials:Cobalt Ingot:118
+Miscellaneous:Cobalt Raw:1149
+Materials:Copper Ingot:120
+Miscellaneous:Copper Raw:121
+Materials:Dark Steel Ingot:122
+Miscellaneous:Dark Steel Raw:123
+Miscellaneous:Diamond:124
+Miscellaneous:Diamond Raw:125
+Materials:Electrum Ingot:126
+Miscellaneous:Electrum Raw:127
+Materials:Emerald Ingot:128
+Miscellaneous:Emerald Raw:1249
+Materials:Gold Ingot:130
+Miscellaneous:Gold Raw:131
+Materials:Iron Ingot:132
+Miscellaneous:Iron Raw:133
+Materials:Netherite Ingot:134
+Miscellaneous:Netherite Raw:135
+Materials:Silver Ingot:136
+Miscellaneous:Silver Raw:137
+Materials:Tin Ingot:138
+Miscellaneous:Tin Raw:1349
+Materials:Titanium Ingot:140
+Miscellaneous:Titanium Raw:141
+Materials:Tungsten Ingot:142
+Miscellaneous:Tungsten Raw:143
+Tools:Bronze Axe:144
+Miscellaneous:Bronze Cutlass:145
+Miscellaneous:Bronze Dagger:146
+Miscellaneous:Bronze Falchion:147
+Tools:Bronze Hoe:148
+Miscellaneous:Bronze Katana:1449
+Miscellaneous:Bronze Mace:150
+Tools:Bronze Pickaxe:151
+Miscellaneous:Bronze Rapier:152
+Tools:Bronze Shovel:153
+Weapons:Bronze Sword:154
+Tools:Cobalt Axe:155
+Miscellaneous:Cobalt Cutlass:156
+Miscellaneous:Cobalt Dagger:157
+Miscellaneous:Cobalt Falchion:158
+Tools:Cobalt Hoe:1549
+Miscellaneous:Cobalt Katana:160
+Miscellaneous:Cobalt Mace:161
+Tools:Cobalt Pickaxe:162
+Miscellaneous:Cobalt Rapier:163
+Tools:Cobalt Shovel:164
+Weapons:Cobalt Sword:165
+Tools:Copper Axe:166
+Miscellaneous:Copper Cutlass:167
+Miscellaneous:Copper Dagger:168
+Miscellaneous:Copper Falchion:1649
+Tools:Copper Hoe:170
+Miscellaneous:Copper Katana:171
+Miscellaneous:Copper Mace:172
+Tools:Copper Pickaxe:173
+Miscellaneous:Copper Rapier:174
+Tools:Copper Shovel:175
+Weapons:Copper Sword:176
+Tools:Dark Steel Axe:177
+Miscellaneous:Dark Steel Cutlass:178
+Miscellaneous:Dark Steel Dagger:1749
+Miscellaneous:Dark Steel Falchion:180
+Tools:Dark Steel Hoe:181
+Miscellaneous:Dark Steel Katana:182
+Miscellaneous:Dark Steel Mace:183
+Tools:Dark Steel Pickaxe:184
+Miscellaneous:Dark Steel Rapier:185
+Tools:Dark Steel Shovel:186
+Weapons:Dark Steel Sword:187
+Tools:Diamond Axe:188
+Miscellaneous:Diamond Cutlass:1849
+Miscellaneous:Diamond Dagger:1490
+Miscellaneous:Diamond Falchion:1491
+Tools:Diamond Hoe:1492
+Miscellaneous:Diamond Katana:1493
+Miscellaneous:Diamond Mace:1494
+Tools:Diamond Pickaxe:1495
+Miscellaneous:Diamond Rapier:1496
+Tools:Diamond Shovel:1497
+Weapons:Diamond Sword:1498
+Tools:Electrum Axe:14949
+Miscellaneous:Electrum Cutlass:200
+Miscellaneous:Electrum Dagger:201
+Miscellaneous:Electrum Falchion:202
+Tools:Electrum Hoe:203
+Miscellaneous:Electrum Katana:204
+Miscellaneous:Electrum Mace:205
+Tools:Electrum Pickaxe:206
+Miscellaneous:Electrum Rapier:207
+Tools:Electrum Shovel:208
+Weapons:Electrum Sword:2049
+Tools:Emerald Axe:210
+Miscellaneous:Emerald Cutlass:211
+Miscellaneous:Emerald Dagger:212
+Miscellaneous:Emerald Falchion:213
+Tools:Emerald Hoe:214
+Miscellaneous:Emerald Katana:215
+Miscellaneous:Emerald Mace:216
+Tools:Emerald Pickaxe:217
+Miscellaneous:Emerald Rapier:218
+Tools:Emerald Shovel:2149
+Weapons:Emerald Sword:220
+Tools:Gold Axe:221
+Miscellaneous:Gold Cutlass:222
+Miscellaneous:Gold Dagger:223
+Miscellaneous:Gold Falchion:224
+Tools:Gold Hoe:225
+Miscellaneous:Gold Katana:226
+Miscellaneous:Gold Mace:227
+Tools:Gold Pickaxe:228
+Miscellaneous:Gold Rapier:2249
+Tools:Gold Shovel:230
+Weapons:Gold Sword:231
+Tools:Iron Axe:232
+Miscellaneous:Iron Cutlass:233
+Miscellaneous:Iron Dagger:234
+Miscellaneous:Iron Falchion:235
+Tools:Iron Hoe:236
+Miscellaneous:Iron Katana:237
+Miscellaneous:Iron Mace:238
+Tools:Iron Pickaxe:2349
+Miscellaneous:Iron Rapier:240
+Tools:Iron Shovel:241
+Weapons:Iron Sword:242
+Miscellaneous:Katana Cutlass:243
+Miscellaneous:Katana Dagger:244
+Tools:Netherite Axe:245
+Miscellaneous:Netherite Cutlass:246
+Miscellaneous:Netherite Dagger:247
+Miscellaneous:Netherite Falchion:248
+Tools:Netherite Hoe:2449
+Miscellaneous:Netherite Katana:250
+Miscellaneous:Netherite Mace:251
+Tools:Netherite Pickaxe:252
+Miscellaneous:Netherite Rapier:253
+Tools:Netherite Shovel:254
+Weapons:Netherite Sword:255
+Tools:Silver Axe:256
+Miscellaneous:Silver Cutlass:257
+Miscellaneous:Silver Dagger:258
+Miscellaneous:Silver Falchion:2549
+Tools:Silver Hoe:260
+Miscellaneous:Silver Katana:261
+Miscellaneous:Silver Mace:262
+Tools:Silver Pickaxe:263
+Miscellaneous:Silver Rapier:264
+Tools:Silver Shovel:265
+Weapons:Silver Sword:266
+Tools:Tin Axe:267
+Miscellaneous:Tin Cutlass:268
+Miscellaneous:Tin Dagger:2649
+Miscellaneous:Tin Falchion:270
+Tools:Tin Hoe:271
+Miscellaneous:Tin Katana:272
+Miscellaneous:Tin Mace:273
+Tools:Tin Pickaxe:274
+Miscellaneous:Tin Rapier:275
+Tools:Tin Shovel:276
+Weapons:Tin Sword:277
+Tools:Titanium Axe:278
+Miscellaneous:Titanium Falchion:2749
+Tools:Titanium Hoe:280
+Miscellaneous:Titanium Katana:281
+Miscellaneous:Titanium Mace:282
+Tools:Titanium Pickaxe:283
+Miscellaneous:Titanium Rapier:284
+Tools:Titanium Shovel:285
+Weapons:Titanium Sword:286
+Tools:Tungsten Axe:287
+Miscellaneous:Tungsten Cutlass:288
+Miscellaneous:Tungsten Dagger:2849
+Miscellaneous:Tungsten Falchion:2490
+Tools:Tungsten Hoe:2491
+Miscellaneous:Tungsten Katana:2492
+Miscellaneous:Tungsten Mace:2493
+Tools:Tungsten Pickaxe:2494
+Miscellaneous:Tungsten Rapier:2495
+Tools:Tungsten Shovel:2496
+Weapons:Tungsten Sword:2497
+Miscellaneous:Custom Block:500
