@@ -12,50 +12,46 @@ export class Input {
 		this.setY = (y) => { this.mcObject.field_146210_g = y };
 		this.setWidth = (width) => { this.mcObject.field_146218_h = width };
 		this.setHeight = (height) => { this.mcObject.field_146219_i = height };
+		const isEnabledField = this.mcObject.class.getDeclaredField('field_146226_p');
+		isEnabledField.setAccessible(true);
+		const textField = this.mcObject.class.getDeclaredField('field_146216_j');
+		textField.setAccessible(true);
+		const selectionEndField = this.mcObject.class.getDeclaredField('field_146223_s');
+		selectionEndField.setAccessible(true);
+		const cursorPositionField = this.mcObject.class.getDeclaredField('field_146224_r');
+		cursorPositionField.setAccessible(true);
+		const lineScrollOffsetField = this.mcObject.class.getDeclaredField('field_146225_q');
+		lineScrollOffsetField.setAccessible(true);
+		const isFocusedField = this.mcObject.class.getDeclaredField('field_146213_o');
+		isFocusedField.setAccessible(true);
 		this.setEnabled = (enabled) => {
-			const isEnabledField = this.mcObject.class.getDeclaredField('field_146226_p');
-			isEnabledField.setAccessible(true);
 			isEnabledField.set(this.mcObject, enabled);
 		};
 		this.isEnabled = () => {
-			const isEnabledField = this.mcObject.class.getDeclaredField('field_146226_p');
-			isEnabledField.setAccessible(true);
 			return isEnabledField.get(this.mcObject);
 		};
 		this.setText = (text) => {
-			const textField = this.mcObject.class.getDeclaredField('field_146216_j');
-			textField.setAccessible(true);
 			textField.set(this.mcObject, text);
 		}
 		this.getText = () => {
-			const textField = this.mcObject.class.getDeclaredField('field_146216_j');
-			textField.setAccessible(true);
 			return textField.get(this.mcObject);
 		}
 		this.setSelectionEnd = (position) => {
 			const Integer = Java.type('java.lang.Integer');
 			const pos = new Integer(position);
-			const selectionEndField = this.mcObject.class.getDeclaredField('field_146223_s');
-			selectionEndField.setAccessible(true);
 			selectionEndField.set(this.mcObject, pos);
 		}
 		this.setCursorPosition = (position) => {
 			const Integer = Java.type('java.lang.Integer');
 			const pos = new Integer(position);
-			const cursorPositionField = this.mcObject.class.getDeclaredField('field_146224_r');
-			cursorPositionField.setAccessible(true);
 			cursorPositionField.set(this.mcObject, pos);
 		}
 		this.setLineScrollOffset = (offset) => {
 			const Integer = Java.type('java.lang.Integer');
 			const offsetInt = new Integer(offset);
-			const lineScrollOffsetField = this.mcObject.class.getDeclaredField('field_146225_q');
-			lineScrollOffsetField.setAccessible(true);
 			lineScrollOffsetField.set(this.mcObject, offsetInt);
 		}
 		this.setIsFocused = (isFocused) => {
-			const isFocusedField = this.mcObject.class.getDeclaredField('field_146213_o');
-			isFocusedField.setAccessible(true);
 			isFocusedField.set(this.mcObject, isFocused);
 		}
 		this.render = () => {
@@ -75,24 +71,20 @@ export class Button {
 		this.setY = (y) => { this.mcObject.field_146129_i = y }
 		this.setWidth = (width) => { this.mcObject.field_146120_f = width }
 		this.setHeight = (height) => { this.mcObject.field_146121_g = height }
+		const isEnabledField = this.mcObject.class.getDeclaredField('field_146124_l');
+		isEnabledField.setAccessible(true);
+		const textField = this.mcObject.class.getDeclaredField('field_146126_j');
+		textField.setAccessible(true);
 		this.setEnabled = (enabled) => {
-			const isEnabledField = this.mcObject.class.getDeclaredField('field_146124_l');
-			isEnabledField.setAccessible(true);
 			isEnabledField.set(this.mcObject, enabled);
 		}
 		this.getEnabled = () => {
-			const isEnabledField = this.mcObject.class.getDeclaredField('field_146124_l');
-			isEnabledField.setAccessible(true);
 			return isEnabledField.get(this.mcObject);
 		}
 		this.setText = (text) => {
-			const textField = this.mcObject.class.getDeclaredField('field_146126_j');
-			textField.setAccessible(true);
 			textField.set(this.mcObject, text);
 		}
 		this.getText = () => {
-			const textField = this.mcObject.class.getDeclaredField('field_146126_j');
-			textField.setAccessible(true);
 			return textField.get(this.mcObject);
 		}
 		this.render = (x,y) => {

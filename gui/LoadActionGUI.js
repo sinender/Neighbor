@@ -15,15 +15,13 @@ export var setInput = (search) => {
 input.setEnabled(false);
 input.setText('Search Textures')
 input.mcObject.func_146203_f(24) // set max length
-
+const guiTopField = net.minecraft.client.gui.inventory.GuiContainer.class.getDeclaredField('field_147009_r');
+const xSizeField = net.minecraft.client.gui.inventory.GuiContainer.class.getDeclaredField('field_146999_f');
+guiTopField.setAccessible(true);
+xSizeField.setAccessible(true);
 register('guiRender', (x, y) => {
 	if (!Player.getContainer()) return;
 	if (!isInTextureGUI()) return;
-
-	const guiTopField = net.minecraft.client.gui.inventory.GuiContainer.class.getDeclaredField('field_147009_r');
-	const xSizeField = net.minecraft.client.gui.inventory.GuiContainer.class.getDeclaredField('field_146999_f');
-	guiTopField.setAccessible(true);
-	xSizeField.setAccessible(true);
 	var chestGuiTop = guiTopField.get(Client.currentGui.get())
 	var chestWidth = xSizeField.get(Client.currentGui.get())
 
@@ -115,6 +113,8 @@ register('guiMouseClick', (x, y, mouseButton) => {
 	}
 })
 
+const inventoryTitleField = net.minecraft.inventory.InventoryBasic.class.getDeclaredField('field_70483_a');
+inventoryTitleField.setAccessible(true);
 register('guiClosed', (gui) => {
 	if (gui.class.getName() !== 'net.minecraft.client.gui.inventory.GuiChest') return;
 
@@ -122,8 +122,6 @@ register('guiClosed', (gui) => {
 	lowerChestField.setAccessible(true);
 	const lowerChest = lowerChestField.get(gui);
 
-	const inventoryTitleField = net.minecraft.inventory.InventoryBasic.class.getDeclaredField('field_70483_a');
-	inventoryTitleField.setAccessible(true);
 	const inventoryTitle = inventoryTitleField.get(lowerChest);
 
 	if (!inventoryTitle.match(/Select Texture/gi)) return;
