@@ -97,7 +97,6 @@ Miscellaneous:Coin:095
 Miscellaneous:Crate:096
 Miscellaneous:Gift:097
 Miscellaneous:Inventory Fill:115
-Miscellaneous:Itemname:\ufd4f
 Miscellaneous:Key:098
 Miscellaneous:Paint Brush:099
 Miscellaneous:Palette:100
